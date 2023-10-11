@@ -1,0 +1,8 @@
+C:\Users\diego.dfferreira1\source\repos\ExercíciosTI18N\ExercíciosTI18N\obj\Debug\ExercíciosTI18N.csproj.AssemblyReference.cache
+C:\Users\diego.dfferreira1\source\repos\ExercíciosTI18N\ExercíciosTI18N\obj\Debug\ExercíciosTI18N.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego.dfferreira1\source\repos\ExercíciosTI18N\ExercíciosTI18N\obj\Debug\ExercíciosTI18N.csproj.CoreCompileInputs.cache
+C:\Users\diego.dfferreira1\source\repos\ExercíciosTI18N\ExercíciosTI18N\bin\Debug\ExercíciosTI18N.exe.config
+C:\Users\diego.dfferreira1\source\repos\ExercíciosTI18N\ExercíciosTI18N\bin\Debug\ExercíciosTI18N.exe
+C:\Users\diego.dfferreira1\source\repos\ExercíciosTI18N\ExercíciosTI18N\bin\Debug\ExercíciosTI18N.pdb
+C:\Users\diego.dfferreira1\source\repos\ExercíciosTI18N\ExercíciosTI18N\obj\Debug\ExercíciosTI18N.exe
+C:\Users\diego.dfferreira1\source\repos\ExercíciosTI18N\ExercíciosTI18N\obj\Debug\ExercíciosTI18N.pdb
